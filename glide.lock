@@ -1,0 +1,6 @@
+hash: 4811a536f6ca577f527a90706bb3d3698fcca78c73ed62a68351f3911a287bcf
+updated: 2017-05-24T23:12:42.780869929-06:00
+imports:
+- name: github.com/Shopify/sarama
+  version: c01858abb625b73a3af51d0798e4ad42c8147093
+testImports: []
