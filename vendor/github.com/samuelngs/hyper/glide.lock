@@ -1,0 +1,26 @@
+hash: 9325b60f84fcdbd1c56d94c0563a652fc58090ebf5b428603962825d33a1dc7f
+updated: 2017-05-23T02:59:35.801585365-06:00
+imports:
+- name: github.com/golang/protobuf
+  version: 7a211bcf3bce0e3f1d74f9894916e6f116ae83b4
+  subpackages:
+  - proto
+  - protoc-gen-go
+- name: github.com/gorilla/websocket
+  version: 3ab3a8b8831546bd18fd182c20687ca853b2bb13
+- name: github.com/pressly/chi
+  version: e6033ea75479391a4bce3918fc119cad31e1cb30
+  subpackages:
+  - middleware
+- name: github.com/ua-parser/uap-go
+  version: e2a4d9b506bab1f6059bdff1d380361d3935236c
+  subpackages:
+  - uaparser
+- name: golang.org/x/net
+  version: f315505cf3349909cdf013ea56690da34e96a451
+  subpackages:
+  - http2
+  - http2/hpack
+- name: gopkg.in/yaml.v2
+  version: 53feefa2559fb8dfa8d81baad31be332c97d6c77
+testImports: []
